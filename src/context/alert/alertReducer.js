@@ -1,4 +1,3 @@
-import React from "react";
 import {HIDE_ALERT, SHOW_ALERT} from "../types";
 
 const handlers = {
